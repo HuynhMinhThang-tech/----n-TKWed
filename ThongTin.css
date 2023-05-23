@@ -1,0 +1,51 @@
+body{
+    background-color: paleturquoise;
+}
+
+.info{
+    background-color: rosybrown;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    max-width: 100%;
+    font-family: 'Oswald', sans-serif;
+}
+.content{
+    justify-content: center;
+    align-items: center;
+}
+.content img{
+    max-height: 100%;
+    max-width: 100%;
+}
+.text {
+    text-align: center;
+    margin: 25px 0x;
+}
+.text h3{
+    margin: 15px 0px;
+}
+
+strong{
+    color: cadetblue;
+    
+}
+
+.text .bt{
+    border: none;
+    margin-right: 15px;
+}
+#bt1{
+    margin-left: 5px;
+}
+.footer {
+    background-color: rosybrown;
+    margin: 25px;
+}
+#ft{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: cyan;
+    
+}
